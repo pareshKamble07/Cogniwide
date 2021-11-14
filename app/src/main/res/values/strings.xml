@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVMRxjava</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email address</string>
+    <string name="login">login</string>
+    <string name="please_wait">please wait...</string>
+</resources>
